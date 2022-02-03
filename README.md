@@ -1,18 +1,18 @@
 # README
 
 ### 開発言語
-・Ruby3.0.1
-・Rails6.0.3  
+- Ruby3.0.1
+- Rails6.0.3  
 
 ### 使用技術
-・AWS EC2
-・devise
-・Ajaxを使ったコメント機能
-・フォロー機能
-・お気に入り機能（like）
-・rails-admin
+- AWS EC2
+- devise
+- Ajaxを使ったコメント機能
+- フォロー機能
+- お気に入り機能（like）
+- rails-admin
 #### 指定外
-・楽天ブックスAPI
+- 楽天ブックスAPI
 https://webservice.rakuten.co.jp/documentation/books-total-search
 
 ### 実行手順
