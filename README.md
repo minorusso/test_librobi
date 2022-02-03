@@ -30,10 +30,11 @@ https://docs.google.com/spreadsheets/d/1rIo6GrunzJVj8376pkBHeIxpyH32-kcIhj-7ACeP
 https://docs.google.com/spreadsheets/d/1rIo6GrunzJVj8376pkBHeIxpyH32-kcIhj-7ACeP-uc/edit?usp=sharing
 
 ### ER図
-![スクリーンショット 2022-02-03 11 16 31](https://user-images.githubusercontent.com/93339149/152270914-8096413a-0014-4670-90f2-f6a9cf8d5b4a.png)
+![スクリーンショット 2022-02-03 15 51 30](https://user-images.githubusercontent.com/93339149/152295244-b9f7f4db-5f54-4b0d-a3f3-78e9a3f5b956.png)
+
 
 ### 画面遷移図
 ![スクリーンショット 2022-02-03 11 21 21](https://user-images.githubusercontent.com/93339149/152270964-3f0d2d75-f3ba-4d16-8ab3-25245c684323.png)
 
 ### ワイヤーフレーム
-https://drive.google.com/file/d/1svLeTBnUa8NVWzirdAUSn5E63UwJ7yPG/view?usp=sharing
+https://drive.google.com/file/d/1Pn5yJQxqVmxayMSc4-COcXN3UuzTZ0XT/view?usp=sharing
